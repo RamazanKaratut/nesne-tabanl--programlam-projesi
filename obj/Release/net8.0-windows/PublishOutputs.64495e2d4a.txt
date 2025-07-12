@@ -1,0 +1,11 @@
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\PROJEM.exe
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\PROJEM.deps.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\PROJEM.runtimeconfig.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\PROJEM.pdb
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\runtimes\win-arm64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\runtimes\win-x64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\runtimes\win-x86\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJE\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

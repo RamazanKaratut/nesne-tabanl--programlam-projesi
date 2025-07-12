@@ -1,0 +1,26 @@
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\Game Station.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form13.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form14.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form15.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form16.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form17.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form18.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form19.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form2.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form20.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form21.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form22.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form23.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form24.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form25.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form3.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form4.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form6.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form7.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form8.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\Game_Station.Properties.Resources.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\Game Station.csproj.GenerateResource.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\Game Station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\Game Station.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\Game Station.AssemblyInfo.cs
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\Game Station.csproj.CoreCompileInputs.cache

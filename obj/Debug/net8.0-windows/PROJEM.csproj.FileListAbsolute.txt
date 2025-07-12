@@ -1,0 +1,129 @@
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form2.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form3.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Properties.Resources.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.GenerateResource.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.AssemblyInfo.cs
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.exe
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.deps.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.runtimeconfig.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.pdb
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.CopyComplete
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\refint\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.pdb
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.genruntimeconfig.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\ref\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form6.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form7.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form8.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form13.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form14.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form15.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form16.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form17.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form18.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form19.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form20.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form21.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form22.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form23.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form24.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form25.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form4.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.exe
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.deps.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.runtimeconfig.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.pdb
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form13.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form14.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form15.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form16.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form17.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form18.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form19.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form2.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form20.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form21.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form22.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form23.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form24.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form25.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form3.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form4.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form6.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form7.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form8.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Properties.Resources.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.GenerateResource.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.AssemblyInfo.cs
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.CopyComplete
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\refint\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.pdb
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.genruntimeconfig.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\ref\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.exe
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.deps.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.runtimeconfig.json
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\PROJEM.pdb
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form13.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form14.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form15.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form16.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form17.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form18.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form19.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form2.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form20.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form21.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form22.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form23.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form24.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form25.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form3.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form4.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form6.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form7.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Form8.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.Properties.Resources.resources
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.GenerateResource.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.AssemblyInfo.cs
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\refint\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.pdb
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.genruntimeconfig.cache
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\ref\PROJEM.dll
+C:\Users\MSI-PC\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Güz Dönemi\Nesne Tabanlı Programlama\PROJE\PROJEM\PROJEM\obj\Debug\net8.0-windows\PROJEM.csproj.Up2Date
